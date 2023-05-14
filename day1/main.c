@@ -9,9 +9,12 @@ void func2()
 
 int main()
 {
-    for(int i = 0; i < 10; i++) {
-        func2();
-    }
+    int a = 0xAABBCCDD;
+    printf("%d\n", a);
+
+//    for(int i = 0; i < 10; i++) {
+//        func2();
+//    }
 
 //    printf("g_val = %d\n", g_val);
 //    func();
