@@ -38,4 +38,5 @@ int main()
     else {
         printf("不相等");
     }
+    return 0;
 }
