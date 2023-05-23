@@ -1,0 +1,3 @@
+/Volumes/My Passport/Code/study/day3/cmake-build-debug/CMakeFiles/day3.dir
+/Volumes/My Passport/Code/study/day3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/My Passport/Code/study/day3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
