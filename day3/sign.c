@@ -7,14 +7,22 @@
 #include <unistd.h>
 
 int main() {
-    int index = 0;
-    const char* lable = "|/-\\";
-    while(1) {
-        index %= 4;
-        printf("[%c]\r", lable[index]);
-        index++;
-        sleep(0.5);
-    }
+    // int i = 0;
+    // for(i = 9; i >= 0; i--) {
+    //     sleep(1);
+    //     printf("%d\r", i);
+
+    // }
+
+
+   int index = 0;
+   const char* lable = "|/-\\";
+   while(1) {
+       index %= 4;
+       printf("[%c]\r", lable[index]);
+       index++;
+       sleep(0.5);
+   }
 
 
     return 0;
