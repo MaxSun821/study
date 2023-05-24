@@ -3,4 +3,4 @@ project(day3 C)
 
 set(CMAKE_C_STANDARD 90)
 
-add_executable(day3 main.c)
+add_executable(day3 main.c sign.c)
